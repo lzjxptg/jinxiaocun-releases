@@ -1,0 +1,33 @@
+版权所有 © 2026 郑世录。保留所有权利。
+Copyright © 2026 Zheng Shilu. All rights reserved.
+
+本软件（「进销存管理系统」，含源代码、可执行文件、安装包、界面、文档与数据结构，
+以下称"本软件"）是**商业软件，不是开源软件**。本许可证不授予任何开源许可
+（例如 MIT / Apache-2.0 / GPL 所授予的权利）。
+
+未经著作权人事先书面许可，任何个人或组织不得实施下列行为：
+
+1. 复制、传播、发布、出租、出借、出售、转售本软件或其任何部分；
+2. 修改、改编、翻译、反编译、反汇编、反向工程，或据此制作衍生作品；
+3. 移除、遮蔽或规避本软件中的版权声明、授权校验机制与许可文件校验；
+4. 将本软件或其衍生品用于著作权人未授权的商业用途；
+5. 将本软件与本软件的任何授权文件（license）分离后提供给第三方使用。
+
+被授权人（持有著作权人签发的有效授权文件者）的权利：
+
+1. 在授权文件载明的期限、范围与机器数量内安装并使用本软件；
+2. 在授权期限内获得约定的**版本升级**与**技术支持**；
+3. 授权到期后可继续查询、打印、导出与备份已录入的数据；新增与修改类操作
+   将按授权约定受限（只读降级），**软件不会删除或加密被授权人的任何业务数据**。
+
+免责声明：本软件按"现状"提供。在适用法律允许的最大范围内，著作权人不对使用
+或无法使用本软件所造成的任何直接、间接、附带或后果性损失承担责任。
+
+授权、续期与技术支持联系方式：<请填入你的联系方式>
+
+---
+
+English summary: This software is proprietary commercial software, NOT open source.
+No part of it may be copied, distributed, modified, reverse-engineered, or used
+commercially without the copyright holder's prior written permission. Licensed users
+may use it within the scope, term and machine count stated in their license file.

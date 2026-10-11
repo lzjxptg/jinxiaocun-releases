@@ -1,0 +1,7 @@
+# 交付仓不需要忽略什么特殊东西；这里只挡住压缩产物与系统垃圾文件
+*.zip
+*.7z
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
